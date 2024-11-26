@@ -1,2 +1,2 @@
 # Sign-Language-Translator-Live
-This program uses a live camera feed to translate Indian Sign Language (ISL) into English characters.
+This project is a real-time system designed to translate Indian Sign Language (ISL) gestures into English characters using a live camera feed. By combining computer vision techniques and machine learning models trained on a comprehensive ISL dataset, it bridges the communication gap for the hearing-impaired community. The system features a user-friendly interface, making it accessible to both developers and end-users, while also allowing for customization. The imgtocsv.py script can be modified to expand the dataset by adding more ISL gesture samples, though the current model already delivers high accuracy.
